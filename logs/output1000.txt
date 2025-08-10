@@ -1,0 +1,1159 @@
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>section a2.5.2, fuel system limitation items, of appendix 2 of embraer legacy bj–maintenance planning guide mpg-1483 (restatement of ad 2008-13-15) mos 26-feb-2014 09-feb-2011 hrs/msc - 0 afl 0 faa 2011-01-01 para (f)(2) perform incorporate new limitations for fuel tank systems revise als of the ica to incorporate mandatory complied with
+
+score: -0.08115936070680618
+Found at index_trained: 4220
+
+score: 0.04069741815328598
+Found at index_init: 5087
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>model: str = Field(description= Model name of the aircraft or the plane)
+
+pos is >>model: emb-135bj - legacy 650 certification date: 26-feb-2014 last actuals: 2079.3 a/c hrs as of10-dec-2022 1204 afl as of10-dec-2022 1802 aph as of20-oct-2022 apu manufacturer: pratt & whitney canada corp. serial/part: sp-e1328158/4504113a model: aps500r/t-62t-40c14 installed on: 12-dec-2013 last actuals: 1802 apu hrs as of20-oct-2022 0 apu hrs 0 a/c hrs
+
+score: 0.22996395826339722
+Found at index_trained: 152
+
+score: 0.1525413990020752
+Found at index_init: 3039
+
+query is >>model: str = Field(description= Model name of the aircraft or the plane)
+
+pos is >>, service ata:53: status report 14-dec-2022 11:31 am model: emb-135bj - legacy 650 serial: 14501198 regno: n1977h hrs: 2079.3 afl: 1204 as of: 10-dec-2022 next due pn & sn unit c/w interval tsx/adj. max limit remaining disposition (eng/apu) a/c ata 53 - fuselage 53-21-00-220-810-l00s detailed inspection (internal) of fuselage components:-
+
+score: 0.8057177066802979
+Found at index_trained: 0
+
+score: 0.1862790882587433
+Found at index_init: 2012
+
+query is >>serialNumber: str = Field(description= s/n Serial Number specific to this aircraft or the plane. It's only number no letters.)
+
+pos is >>ata:53: [extracted table] [extracted table] [extracted table] 53-23-00-220-811-l00: , detailed inspection (internal) of fuselage components:- passenger cabin floor beams and columns (ssi 53-20-11) note: applicable to aircraft pre-mod. s.b.145leg-00-0007. (l600 only): , service ata:53: [extracted table] [extracted table] status report 14-dec-2022 11:31 am model: emb-135bj - legacy 650 serial: 14501198
+
+score: 0.799534261226654
+Found at index_trained: 0
+
+score: 0.3165062367916107
+Found at index_init: 221
+
+query is >>serialNumber: str = Field(description= s/n Serial Number specific to this aircraft or the plane. It's only number no letters.)
+
+pos is >>report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n 14501198 (n1977h): 2079.3hrs, 1204 afl as of 10-dec-2022 report date: 20-dec-2022 task no. description unit interval compliance next due disposition moc sb 145leg-30-0020 rev ice and rain protection - pitot #1 and #2 tubbing system improvement (superseded
+
+score: -0.07667317986488342
+Found at index_trained: 3974
+
+score: 0.2176208198070526
+Found at index_init: 1921
+
+query is >>registration: str = Field(description= Registration number of the aircraft or the plane. It comes after the serial number by |)
+
+pos is >>2015 legacy 650 sn 14501198 | n1977h 2015 legacy 650 s/n14501198| n1977h aircraft highlights  engines enrolled on rolls royce corporate care  embraer executive care enhanced  fans 1/a cpdlc  nz 2000 fms 6.1 software (waas/lpv)  gogo avance l5 high speed us domestic wi-fi  ovation cabin
+
+score: 0.7292633652687073
+Found at index_trained: 0
+
+score: 0.2882748246192932
+Found at index_init: 473
+
+query is >>registration: str = Field(description= Registration number of the aircraft or the plane. It comes after the serial number by |)
+
+pos is >>emb-135bj - legacy 650 master ad/si report s/n 14501198 n1977h owner: libertatum, llc operator: jet edge operator: western air charter inc dba jet edge address: 16700c roscoe blvd. van nuys address: 16700 c roscoe blvd address: 16700 c roscoe blvd ca 91406 van nuys ca 91406 van nuys ca 91406
+
+score: 0.18355520069599152
+Found at index_trained: 31
+
+score: 0.30176931619644165
+Found at index_init: 343
+
+query is >>registration: str = Field(description= Registration number of the aircraft or the plane. It comes after the serial number by |)
+
+pos is >>also be performed for 53-30-35 (l600 only): , service ata:53: [extracted table] [extracted table] [extracted table] [extracted table] [extracted table] [extracted table] [extracted table] status report 14-dec-2022 11:31 am model: emb-135bj - legacy 650 serial: 14501198 regno: n1977h hrs: 2079.3 afl: 1204 as of: 10-dec-2022 next due pn & sn
+
+score: -0.15885695815086365
+Found at index_trained: 4251
+
+score: 0.27768632769584656
+Found at index_init: 608
+
+query is >>manufacturer: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.08119189739227295
+Found at index_trained: 429
+
+score: 0.34689295291900635
+Found at index_init: 342
+
+query is >>manufacturer: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>mode: with compliance or next due; for: airframe,engine,apu etc; filter criteria: aircraft serial/regno: 14501198/n1977h model: emb-135bj - legacy 650 manufacturer: embraer last actuals current actual dates a/c hrs as of a/c hrs as of 2079.3 10-dec-2022 ______________ ____/____/________ certification date: 26-feb-2014 afl as of afl as of 1204 10-dec-2022 ______________
+
+score: 0.7685869932174683
+Found at index_trained: 0
+
+score: 0.37021276354789734
+Found at index_init: 168
+
+query is >>totalTimeHours: int = Field(description= total Flight Time in Hours of the aircraft or the plane. If there are multiple correspoinding values,take the largest value.)
+
+pos is >>complied with - at: , manufacture: master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n 14501198 (n1977h): 2079.3hrs, 1204 afl as of 10-dec-2022 report date: 20-dec-2022 task no. description unit interval compliance next due disposition moc sb 145leg-34-0014 mode s enhanced surveillance transponder, service
+
+score: 0.7885104417800903
+Found at index_trained: 0
+
+score: 0.20313751697540283
+Found at index_init: 925
+
+query is >>totalTimeHours: int = Field(description= total Flight Time in Hours of the aircraft or the plane. If there are multiple correspoinding values,take the largest value.)
+
+pos is >>mode: with compliance or next due; for: airframe,engine,apu etc; filter criteria: aircraft serial/regno: 14501198/n1977h model: emb-135bj - legacy 650 manufacturer: embraer last actuals current actual dates a/c hrs as of a/c hrs as of 2079.3 10-dec-2022 ______________ ____/____/________ certification date: 26-feb-2014 afl as of afl as of 1204 10-dec-2022 ______________
+
+score: 0.02390386164188385
+Found at index_trained: 2288
+
+score: 0.2834721803665161
+Found at index_init: 135
+
+query is >>totalCycles: int = Field(description= total Flight Time in Cycles of the aircraft or the plane. If there are multiple correspoinding values,take the largest value.)
+
+pos is >>with compliance or due emb-135bj - legacy 650 s/n 14501198 (n1977h): 2079.3hrs, 1204 afl as of 10-dec-2022 report date: 20-dec-2022 task no. description unit interval compliance next due disposition moc sb 145leg-54-0005 rev replace nacelles and pylons - inspection and replacement of the ventilation outlet assembly of recommended not applicable
+
+score: 0.7748270034790039
+Found at index_trained: 3
+
+score: 0.13006240129470825
+Found at index_init: 2949
+
+query is >>totalCycles: int = Field(description= total Flight Time in Cycles of the aircraft or the plane. If there are multiple correspoinding values,take the largest value.)
+
+pos is >>washers in the control rods and installation of spring to the hinge assemblies, service bulletin: , complied with - at: , manufacture: master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n 14501198 (n1977h): 2079.3hrs, 1204 afl as of 10-dec-2022 report date: 20-dec-2022 task no.
+
+score: 0.5094982385635376
+Found at index_trained: 138
+
+score: 0.07810536026954651
+Found at index_init: 4642
+
+query is >>airframeProgram:  str = Field(description= Airframe Power-by-The-Hour Plan of the aircraft or the plane)
+
+pos is >>2015 legacy 650 sn 14501198 | n1977h 2015 legacy 650 s/n14501198| n1977h aircraft highlights  engines enrolled on rolls royce corporate care  embraer executive care enhanced  fans 1/a cpdlc  nz 2000 fms 6.1 software (waas/lpv)  gogo avance l5 high speed us domestic wi-fi  ovation cabin
+
+score: 0.6249604225158691
+Found at index_trained: 0
+
+score: 0.16993379592895508
+Found at index_init: 2453
+
+query is >>flightHoursAsOfDate: DateTime = Field(description= flight Hours As Of Date DD/MM/YYYY of the aircraft or the plane)
+
+pos is >>mode: with compliance or next due; for: airframe,engine,apu etc; filter criteria: aircraft serial/regno: 14501198/n1977h model: emb-135bj - legacy 650 manufacturer: embraer last actuals current actual dates a/c hrs as of a/c hrs as of 2079.3 10-dec-2022 ______________ ____/____/________ certification date: 26-feb-2014 afl as of afl as of 1204 10-dec-2022 ______________
+
+score: 0.6632034778594971
+Found at index_trained: 0
+
+score: 0.3286103904247284
+Found at index_init: 11
+
+query is >>flightHoursAsOfDate: DateTime = Field(description= flight Hours As Of Date DD/MM/YYYY of the aircraft or the plane)
+
+pos is >>[extracted table] [extracted table] [extracted table] [extracted table] status report 14-dec-2022 11:31 am model: emb-135bj - legacy 650 serial: 14501198 regno: n1977h hrs: 2079.3 afl: 1204 as of: 10-dec-2022 next due pn & sn unit c/w interval tsx/adj. max limit remaining disposition (eng/apu) a/c ata 53 - fuselage 53-22-00-220-802-l00s detailed
+
+score: -0.08441495150327682
+Found at index_trained: 2359
+
+score: 0.21084526181221008
+Found at index_init: 411
+
+query is >>entryToServiceDate: DateTime = Field(description= Date DD/MM/YYYY of the First Service of the aircraft or the plane)
+
+pos is >>mos 26-feb-2014 hrs/msc - 0 afl 0 sb 145leg-28-0014 rev high level exceeding indication system provision installation, service bulletin not applicable 01 mos 26-feb-2014 05-sep-2003 hrs/msc - 0 afl 0 sb 145leg-28-0015 high level exceeding indication system installation complementation, service bulletin not applicable mos 26-feb-2014 26-sep-2003 hrs/msc - 0 afl
+
+score: 0.7928062081336975
+Found at index_trained: 0
+
+score: 0.21273930370807648
+Found at index_init: 1321
+
+query is >>engines: [
+              {
+                "make": str = Field(description= Manufacturer name of the Engine),
+                "model": str = Field(description= Model name of the Engine),
+                "programPlan": str = Field(description= Program Plan of the Engine),
+                "serialNumber": str = Field(description= Serial Number of the Engine),
+                "totalTimeHours": int = Field(description= Total Flight Time in Hours of the Engine),
+                "cycles": int = Field(description= Total Flight Time in Cycles of the Engine),
+                "asOfDate": DateTime = Field(description= As Of Date DD/MM/YYYY of the  of the Aircraft or the Plane)
+              }
+            ]
+
+pos is >>cabin management system  far 135 ready airframe: apu: pratt & whitney sundstrand t-62t-40c14 (eec enhanced) yearofmanufacture: 2015 serialnumber: sp-e1328158 entryintoservice: 2015 time: 1,802 total hours: 2,079 cycles: 2,263 totallandings: 1,204 engines: rolls royce ae3007a2 (rolls royce corporate care) maintenancetracking: camp serialnumber totaltime cycles engine1:cae-313365 2,105 1,204 engine2:cae-313364 2,105 1,204
+
+score: 0.8330725431442261
+Found at index_trained: 0
+
+score: 0.37120601534843445
+Found at index_init: 13
+
+query is >>engines: [
+              {
+                "make": str = Field(description= Manufacturer name of the Engine),
+                "model": str = Field(description= Model name of the Engine),
+                "programPlan": str = Field(description= Program Plan of the Engine),
+                "serialNumber": str = Field(description= Serial Number of the Engine),
+                "totalTimeHours": int = Field(description= Total Flight Time in Hours of the Engine),
+                "cycles": int = Field(description= Total Flight Time in Cycles of the Engine),
+                "asOfDate": DateTime = Field(description= As Of Date DD/MM/YYYY of the  of the Aircraft or the Plane)
+              }
+            ]
+
+pos is >>2263 apus as of20-oct-2022 0 apus engine no. 1 serial/part: cae313365/23087636 model: ae 3007a2 manufacturer: rolls-royce derby plc installed on: 21-nov-2013 last actuals: 2104.7 eng. hrs as of10-dec-2022 0 eng. hrs 0 a/c hrs 1204 enc as of10-dec-2022 0 enc engine no. 2 serial/part: cae313364/23087636 model: ae 3007a2 manufacturer: rolls-royce
+
+score: 0.21595153212547302
+Found at index_trained: 199
+
+score: 0.2936602532863617
+Found at index_init: 289
+
+query is >>apu: {
+                "make": str = Field(description= "Manufacturer name of the APU"),
+                "model": str = Field(description= Model name of the APU),
+                "programPlan": str = Field(description= Program Plan of the APU),
+                "serialNumber": str = Field(description= Serial Number of the APU),
+                "totalTimeHours": int = Field(description= Total Flight Time in Hours of the APU),
+                "cycles": int = Field(description= Total Flight Time in Cycles of the APU,
+                "asOfDate": DateTime = Field(description= As Of Date DD/MM/YYYY of the Aircraft or the Plane)
+            }
+
+pos is >>model: emb-135bj - legacy 650 certification date: 26-feb-2014 last actuals: 2079.3 a/c hrs as of10-dec-2022 1204 afl as of10-dec-2022 1802 aph as of20-oct-2022 apu manufacturer: pratt & whitney canada corp. serial/part: sp-e1328158/4504113a model: aps500r/t-62t-40c14 installed on: 12-dec-2013 last actuals: 1802 apu hrs as of20-oct-2022 0 apu hrs 0 a/c hrs
+
+score: 0.2683214247226715
+Found at index_trained: 87
+
+score: 0.4331847131252289
+Found at index_init: 5
+
+query is >>apu: {
+                "make": str = Field(description= "Manufacturer name of the APU"),
+                "model": str = Field(description= Model name of the APU),
+                "programPlan": str = Field(description= Program Plan of the APU),
+                "serialNumber": str = Field(description= Serial Number of the APU),
+                "totalTimeHours": int = Field(description= Total Flight Time in Hours of the APU),
+                "cycles": int = Field(description= Total Flight Time in Cycles of the APU,
+                "asOfDate": DateTime = Field(description= As Of Date DD/MM/YYYY of the Aircraft or the Plane)
+            }
+
+pos is >>cabin management system  far 135 ready airframe: apu: pratt & whitney sundstrand t-62t-40c14 (eec enhanced) yearofmanufacture: 2015 serialnumber: sp-e1328158 entryintoservice: 2015 time: 1,802 total hours: 2,079 cycles: 2,263 totallandings: 1,204 engines: rolls royce ae3007a2 (rolls royce corporate care) maintenancetracking: camp serialnumber totaltime cycles engine1:cae-313365 2,105 1,204 engine2:cae-313364 2,105 1,204
+
+score: 0.6948975324630737
+Found at index_trained: 0
+
+score: 0.39719927310943604
+Found at index_init: 30
+
+query is >>interior: str = Field(description= interior appearance description of the aircraft or the plane)
+
+pos is >>and crew jumpseat. high-definition bulkhead monitors (forward and aft) iridium satellite phone system the forward cabin area includes a four (4) place club configuration with leg rests and two (2) executive pull out dual blu-ray players tables. the mid cabin features a four (4) place conference group opposite a large
+
+score: 0.6932309865951538
+Found at index_trained: 0
+
+score: 0.24227826297283173
+Found at index_init: 484
+
+query is >>interior: str = Field(description= interior appearance description of the aircraft or the plane)
+
+pos is >>passenger configuration interior is gogo avance l5 high speed us domestic wifi perfect for personal and business trips alike. ovation cabin management system the forward entry features a crew lavatory, large galley, and crew jetmap hd worldwide jumpseat. high-definition bulkhead monitors (forward and aft) the forward cabin area includes a
+
+score: 0.5894975662231445
+Found at index_trained: 2
+
+score: 0.2932412028312683
+Found at index_init: 167
+
+query is >>interior: str = Field(description= interior appearance description of the aircraft or the plane)
+
+pos is >>four (4) place club iridium satellite phone system configuration with leg rests and two (2) executive pull out dual blu-ray players tables. the mid cabin features a four (4) place conference group opposite a large credenza. theaft cabin features three (3) place divan opposite a two (2) place club seat
+
+score: 0.5710829496383667
+Found at index_trained: 3
+
+score: 0.20701560378074646
+Found at index_init: 994
+
+query is >>interior: str = Field(description= interior appearance description of the aircraft or the plane)
+
+pos is >>s/n14501198| n1977h: specificationsanddescriptionsareprovidedasintroductoryinformationonlyanddonotconstituterepresentationsorwarranties.verificationofspecificationsremainthesoleresponsibilityofpurchaser. 2015 legacy 650 s/n14501198| n1977h (original) interior entertainment gogo avance l5 high speed us domestic wifi this stunning thirteen (13) passenger configuration interior is perfect for personal and business trips alike. ovation cabin management system jetmap hd worldwide the forward entry features a crew lavatory, large galley,
+
+score: 0.3696935474872589
+Found at index_trained: 4
+
+score: 0.2717360854148865
+Found at index_init: 284
+
+query is >>exterior: str = Field(description= exterior appearance description of the aircraft or the plane)
+
+pos is >>arrangement. the aft lavatory is equipped with ample storage and a sink with vanity. 2015 legacy 650 s/n14501198| n1977h: info@jetedgepartners.com |+1410 928 4022 | www.jetedgepartners.com 2015 legacy 650 s/n14501198| n1977h: specificationsanddescriptionsareprovidedasintroductoryinformationonlyanddonotconstituterepresentationsorwarranties.verificationofspecificationsremainthesoleresponsibilityofpurchaser. 2015 legacy 650 s/n1450198| n1977h exterior (original by embraer) info@jetedgepartners.com |+1410 928 4022 | www.jetedgepartners.com specificationsanddescriptionsareprovidedasintroductoryinformationonlyanddonotconstituterepresentationsorwarranties.verificationofspecificationsremainthesoleresponsibilityofpurchaser. [extracted table] 2015
+
+score: 0.8313268423080444
+Found at index_trained: 0
+
+score: 0.13132472336292267
+Found at index_init: 3193
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>package pkg:5007 05-lu288 low utilization-lu288 package ata:05 288 (+15d/-15d) 26-feb-38 mos 26-feb-14 13-mar-38 5553 d (+15) low utilization 12000 (+20/-20) 12000 hrs 0 12020 9920.7 (+20) 6000 (+20/-20) 6000 afl 0 6020 4796 (+20) proc. ref: smrd lu288 package pkg:5140 s-suppressed m-manual u-user ex-excluded ?-insufficient information requirement *-estimated due(new requirement)
+
+score: 0.3762977719306946
+Found at index_trained: 158
+
+score: 0.14884859323501587
+Found at index_init: 2361
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>package pkg:5024 05-lu144t288 threshold 288 mos low utlilization-lu144 package ata:05 t:288 (+15d/- 26-feb-38 mos 26-feb-14 13-mar-38 5553 d (+15) low utilization 15d) t:12000 (+20/- 12000 hrs 0 12020 9920.7 (+20) 20) t:6000 (+20/-20) 6000 afl 0 6020 4796 (+20) proc. ref: smrd lu144 t288 package pkg:5025 05-lu192 low utilization-lu192 package
+
+score: 0.4761600196361542
+Found at index_trained: 60
+
+score: 0.14426198601722717
+Found at index_init: 2512
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>lu48 package pkg:5008 05-lu48t288 threshold 288 mos low utilization-lu48 package ata:05 t:288 (+15d/- 26-feb-38 mos 26-feb-14 13-mar-38 5553 d (+15) low utilization 15d) t:12000 (+20/- 12000 hrs 0 12020 9920.7 (+20) 20) t:6000 (+20/-20) 6000 afl 0 6020 4796 (+20) proc. ref: smrd lu48 t288 package pkg:5011 05-lu48t96 threshold 96
+
+score: 0.4999133050441742
+Found at index_trained: 50
+
+score: 0.1336965560913086
+Found at index_init: 2843
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>low utilization 15d) t:12000 (+20/- 12000 hrs 0 12020 9920.7 (+20) 20) t:6000 (+20/-20) 6000 afl 0 6020 4796 (+20) proc. ref: smrd lu96 t288 package pkg:5018 233510-7112u aft antenna installation inspection service ata:05 mos 23-feb-18 20000 20843.2 hrs 843.2 18763.9 20000 20495 afl 495 19291 233510-7113u coax cable installation
+
+score: 0.3066293001174927
+Found at index_trained: 270
+
+score: 0.11983656883239746
+Found at index_init: 3246
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>1167 d (+15) low utilization 3000 (+20/-20) 4463 hrs 1463 4483 2383.7 (+20) 1500 (+20/-20) 2368 afl 868 2388 1164 (+20) proc. ref: smrd lu72 package pkg:5012 05-lu96 low utilization-lu96 package ata:05 96 (+15d/-15d) 10-may-30 mos 10-may-22 25-may-30 2704 d (+15) low utilization 4000 (+20/-20) 5665.9 hrs 1665.9 5685.9 3586.6
+
+score: 0.7034310102462769
+Found at index_trained: 1
+
+score: 0.14479291439056396
+Found at index_init: 2492
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>ata:05 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: smrd lu192 package pkg:5032 05-lu24 low utilization-lu24 package ata:05 24 (+15d/-15d) 10-may-24 mos 10-may-22 25-may-24 513 d (+15) low utilization
+
+score: 0.7927993535995483
+Found at index_trained: 0
+
+score: 0.16835322976112366
+Found at index_init: 1741
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>interval tsx/adj. max limit remaining disposition (eng/apu) a/c ata 05 - time limits/maintenance checks 05-lu144 low utilization-lu144 package ata:05 144 (+15d/-15d) 26-feb-26 mos 26-feb-14 13-mar-26 1170 d (+15) low utilization 6000 (+20/-20) 6000 hrs 0 6020 3920.7 (+20) 3000 (+20/-20) 3000 afl 0 3020 1796 (+20) proc. ref: smrd lu144
+
+score: 0.514534592628479
+Found at index_trained: 41
+
+score: 0.2439841330051422
+Found at index_init: 401
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>to tip rib, including attachment bolts (ssi 55-30-65)- fin-to-horizontal stabilizer support actuators, includ- ing bolt (ssi 55-30-75)- actuator support fittings (rudder) (ssi 55-30-79)- pcu support fittings (ssi 55-30-80) (l650 only) 144 (+15d/-15d) 26-feb-26 mos 26-feb-14 13-mar-26 1170 d (+15) low utilization 6000 (+20/-20) 6000 hrs 0 6020 3920.7 (+20) 3000
+
+score: 0.32292431592941284
+Found at index_trained: 233
+
+score: 0.139707550406456
+Found at index_init: 2659
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>(+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 57-11-00 pkg:5032 57-11-00-220-806-l00 detailed inspection (internal) of wing stub components:- spar 1 - lower front fitting attachments and spar 2 -
+
+score: 0.37166905403137207
+Found at index_trained: 168
+
+score: 0.1765775978565216
+Found at index_init: 1520
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 57-61-00 pkg:5032 57-61-00-220-804-l00 detailed inspection (internal) of aileron components:- aileron actuator fittings (ssi 57-61-12) service ata:57 n/a mos/msc 26-feb-14 hrs 0 afl 0
+
+score: 0.2630103826522827
+Found at index_trained: 362
+
+score: 0.1450888216495514
+Found at index_init: 2480
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>ref: ndt 53-12-00 pkg:5016 53-12-00-220-802-l00 detailed inspection (internal) of fuselage components:- windshield center post and its attachment (ssi 53-10-19) service ata:53 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref:
+
+score: 0.2671439051628113
+Found at index_trained: 352
+
+score: 0.2064231038093567
+Found at index_init: 900
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>ata:57 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 57-22-00 pkg:5032 57-22-00-210-805-l00s general visual inspection (internal) of wing components:- spar 1 cap (ssi 57-22-41) service ata:57 96s (+15d/-15d)
+
+score: 0.5260560512542725
+Found at index_trained: 33
+
+score: 0.16583001613616943
+Found at index_init: 1810
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>57-22-40)- spar 1, web cutouts service ata:57 (ssi 57-22-42) 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 57-22-00 pkg:5032 57-22-00-220-803-l00s detailed inspection (internal) of wing components:- spar 1,
+
+score: 0.3118462860584259
+Found at index_trained: 261
+
+score: 0.16926462948322296
+Found at index_init: 1710
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>stiffeners (ssi 57-22-40) service ata:57 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 57-22-00 pkg:5032 57-22-00-220-802-l00 detailed inspection (external) of wing components:- spar 1/ web and stiffeners (ssi
+
+score: 0.30523523688316345
+Found at index_trained: 273
+
+score: 0.1881171464920044
+Found at index_init: 1250
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>sta- bilizer (ssi service ata:55 55-10-14) 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 55-10-00 pkg:5032 55-10-00-210-c01-l00s general visual inspection (external) of horizon- tal stabilizer components:- u shape,
+
+score: 0.3930653929710388
+Found at index_trained: 134
+
+score: 0.19922582805156708
+Found at index_init: 1043
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>afl: 1204 as of: 10-dec-2022 next due pn & sn unit c/w interval tsx/adj. max limit remaining disposition (eng/apu) a/c ata 21 - air conditioning 21-60-08-960-001-a00 discard torque-motor dual-valve filter service ata:21 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7
+
+score: 0.4340430498123169
+Found at index_trained: 90
+
+score: 0.19533416628837585
+Found at index_init: 1101
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>ndt 53-12-00 pkg:5032 53-12-00-220-803-l00 detailed inspection (internal) of fuselage components:- windshield lateral post and its attachment (ssi 53-10-20)- service ata:53 cockpit window rear post and its attachment (ssi 53-10-22) 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20)
+
+score: 0.34588339924812317
+Found at index_trained: 198
+
+score: 0.1954980492591858
+Found at index_init: 1100
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000 afl 0 4020 2796 (+20) proc. ref: ndt 54-50-00 pkg:5032 54-50-00-220-809-l00s detailed inspection (internal) of pylon component:- pylon yokes i and ii (ssi 54-50-05) secondary service ata:54 element. t:288s (+15d/- mos 26-feb-14 low utilization 15d) t:12000s (+20/- hrs 0
+
+score: 0.47143757343292236
+Found at index_trained: 64
+
+score: 0.22450199723243713
+Found at index_init: 640
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>hrs 1665.9 2000s (+20/-20) afl 1013 proc. ref: ndt 53-31-00 pkg:5016 53-31-00-210-802-l00 general visual inspection (internal) of fuselage components:- baggage door lateral l- shape (ssi 53-30-03) service ata:53 192 (+15d/-15d) 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) 4000 (+20/-20) 4000
+
+score: 0.368025004863739
+Found at index_trained: 172
+
+score: 0.21398508548736572
+Found at index_init: 794
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>29-10-04-900-001-a00 discard lh rack dc electric motor driven hydraulic pump emdp brushes service ata:29 pn:971533 mos 26-feb-14 system 6000 6000 sn:mx769957 hrs 0 3920.7 afl 0 proc. ref: amm 29-10-04 29-10-04-900-001-a00 discard rh rack dc electric motor driven hydraulic pump empd brushes service ata:29 pn:971533 mos 26-feb-14 system 6000 6000
+
+score: 0.07883960008621216
+Found at index_trained: 1616
+
+score: 0.015885500237345695
+Found at index_init: 5284
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>(+20) 2000 (+20/-20) 3013 afl 1013 3033 1809 (+20) proc. ref: smrd lu96 package pkg:5016 05-lu96t192 threshold 192 mos low utilization-lu96 package ata:05 t:192 (+15d/- 26-feb-30 mos 26-feb-14 13-mar-30 2631 d (+15) low utilization 15d) t:8000 (+20/-20) 8000 hrs 0 8020 5920.7 (+20) t:4000 (+20/-20) 4000 afl 0 4020 2796
+
+score: 0.6552978754043579
+Found at index_trained: 2
+
+score: 0.15092870593070984
+Found at index_init: 2292
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>1526 d (+30) system 8000 9546.6 hrs 1546.6 7467.3 afl 923 proc. ref: amm 34-13-00, far far 43 appendix e, far far 91.411 / 91.217 34-13-00-680-001-a00s service (drain) pitot lines service ata:34 12s (+15d/-15d) mos 10-may-22 low utilization 500s (+20/-20) hrs 1665.9 afl 1013 proc. ref: amm 34-13-00, far far
+
+score: 0.3900239169597626
+Found at index_trained: 137
+
+score: 0.14068982005119324
+Found at index_init: 2625
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>afl 0 tsn 0 proc. ref: ndt generic 322001-0101 top nlg main drag strut stay component ata:32 pn:1172a0800-01 mos 26-feb-14 tsn 0 life limit sn:hm1828 hrs 0 tsn 0 6000 6000 afl 0 tsn 0 4796 special properties: rii item proc. ref: ndt generic 322001-0201 bottom nlg main drag strut
+
+score: -0.0027885008603334427
+Found at index_trained: 2960
+
+score: 0.12215248495340347
+Found at index_init: 3183
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>-14)- frames (ssi 53-10-43) 96s (+15d/-15d) mos 10-may-22 low utilization 4000s (+20/-20) hrs 1665.9 2000s (+20/-20) afl 1013 proc. ref: cpm 53-12-00 pkg:5016 53-12-00-220-c03-l00s detailed inspection (internal) of fuselage components:- cockpit floor beam
+
+index_trained Not found
+
+index_trained Not found
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>analysis resulted in threshold reduction for mandatory not applicable - to aircraft model (g)(3)(i) some structure significant items (ssi) of the maintenance review board report (mrbr) airworthiness limitations items (ali) task 57-10-00-250-801-a00 mos 26-feb-2014 22-jul-2010 hrs/msc - 0 afl 0 faa 2010-12-07 para comply with reassessment of the damage tolerance
+
+score: 0.11992907524108887
+Found at index_trained: 1141
+
+score: 0.24618563055992126
+Found at index_init: 378
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>by recommended not applicable 145leg-38-0035 rev 01), service bulletin mos 29-sep-2016 hrs/msc - afl sb 145leg-45-0001 rev central maintenance computer (cmc) - upgrade to new pn 251-116-013-011, service bulletin complied with - at manufacture 01 mos 26-feb-2014 20-may-2003 hrs/msc - 0 afl 0 sb 145leg-45-0002 rev central maintenance system -
+
+score: 0.16432616114616394
+Found at index_trained: 749
+
+score: 0.24415767192840576
+Found at index_init: 400
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>amm 28-26-21 28-26-21-710-001-a01s operationally check forward tanks low level sensor (l650 only) service ata:28 24s (+15d/-15d) mos 10-may-22 low utilization 1000s (+20/-20) hrs 1665.9 afl 1013 proc. ref: amm 28-26-21 pkg:5004 s-suppressed m-manual u-user ex-excluded ?-insufficient information requirement *-estimated due(new requirement) (eff)-effective c/w due task task © camp systems 121
+
+score: 0.3100065588951111
+Found at index_trained: 266
+
+score: 0.1931804120540619
+Found at index_init: 1137
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>(ssi 53-10-20).note: applicable to aircraft post-mod. s.b.145leg-00-0007 or with an equivalent modification factory-incorpo- rated and post- mod. s.b.145leg- 53-0030 or with an equivalent modification factory incorporated. t:192s (+15d/- mos 26-feb-14 low utilization 15d) t:8000s (+20/- hrs 0 20) t:4000s (+20/- afl 0 20) proc. ref: ndt 53-12-00 pkg:5017 53-21-00-210-c01-l00s general
+
+score: 0.27373066544532776
+Found at index_trained: 336
+
+score: 0.12621065974235535
+Found at index_init: 3067
+
+query is >>maintenance: {
+              "summary": str = Field(description= MAINTENANCE CHECKS),
+              "scheduledInspections": [
+                {
+                  "title": str = Field(description= Title of the scheduled MAINTENANCE CHECKS.' ),
+                  "performedDate": DateTime = Field(description= Oldest Date DD/MM/YYYY of the MAINTENANCE CHECK),
+                  "performedHours": int = Field(description= Number of performed Hours at the time of the Last MAINTENANCE CHECK),
+                  "dueDate": DateTime = Field(description= Due Date DD/MM/YYYY of the next planed MAINTENANCE CHECK),
+                  "dueHoursOrCycles": int = Field(description= Number of Hours Cycles to the next planed MAINTENANCE CHECK)
+                }
+              ]
+            }
+
+pos is >>service ata:79 mos 11-jul-13 system 8000 (8000) hrs 0 5895.3 7974.6 enc 0 proc. ref: mm 79-37-10, amm 79-34-01 79-37-00-720-001-a00 no. 1 engine - functionally check oil filter impeding bypass indicating system service ata:79 mos 11-jul-13 system 8000 (8000) hrs 0 5895.3 7974.6 enc 0 proc. ref: mm 79-37-15, amm
+
+score: 0.05865054950118065
+Found at index_trained: 1919
+
+score: 0.09525739401578903
+Found at index_init: 3917
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>radio management unit waas/lpv artex c406 emergency locator transmitter tcas 7.1 acss tcas 2000 w/ change 7.1 dual digital clocks dual honeywell az-950 adc’s l3 solid state cvr/fdr honeywell make v egpws/windshear detection integrated stand-by instrument system weather radar wx-880 dual honeywell krx-1053 hf radio w/selcal compatibility info@jetedgepartners.com |+1410 928
+
+score: 0.7578161954879761
+Found at index_trained: 0
+
+score: 0.28153717517852783
+Found at index_init: 346
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>acss tcas 2000 w/ change 7.1 dual digital clocks dual honeywell az-950 adc’s l3 solid state cvr/fdr honeywell make v egpws/windshear detection integrated stand-by instrument system weather radar wx-880 dual honeywell krx-1053 hf radio w/selcal compatibility 2015 legacy 650 s/n14501198| n1977h: info@jetedgepartners.com |+1410 928 4022 | www.jetedgepartners.com 2015 legacy 650
+
+score: 0.6143964529037476
+Found at index_trained: 1
+
+score: 0.22681322693824768
+Found at index_init: 1102
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>dual honeywell rnz-851 navigation system (nav/adf/dme) dual stall protection systems dual honeywell transponders & airborne audio system navigation and compliance dual honeywell nz-2000 fms with 6.1 software ads-b out dual honeywell laserefiv irs fans 1/a cpdlc dual honeywell rm-855 radio management unit waas/lpv artex c406 emergency locator transmitter tcas 7.1
+
+score: 0.02016977220773697
+Found at index_trained: 631
+
+score: 0.21844622492790222
+Found at index_init: 1301
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>flight data acquisition unit triple honeywell rcz-833 communications system (8.33 khz) dual stall protection systems dual honeywell rnz-851 navigation system (nav/adf/dme) dual honeywell transponders & airborne audio system navigation and compliance dual honeywell nz-2000 fms with 6.1 software ads-b out dual honeywell laserefiv irs fans 1/a cpdlc dual honeywell rm-855
+
+score: 0.05525048077106476
+Found at index_trained: 340
+
+score: 0.32885441184043884
+Found at index_init: 101
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>4022 | www.jetedgepartners.com specificationsanddescriptionsareprovidedasintroductoryinformationonlyanddonotconstituterepresentationsorwarranties.verificationofspecificationsremainthesoleresponsibilityofpurchaser. [extracted table] 2015 legacy 650 s/n14501198| n1977h: avionics avionics (cont.) 5 tube honeywell efis/eicas 8x7 color lcd displays single radio altimeter honeywell dual ic’s/flight director/single autopilot cat i and ii autopilot/flight director triple honeywell rcz-833 communications system (8.33 khz) afdau – auxiliary flight data acquisition unit
+
+score: 0.47405311465263367
+Found at index_trained: 2
+
+score: 0.3805014491081238
+Found at index_init: 16
+
+query is >>avionics: [
+              str = Field(description= avionics of the Aircraft or the plane)"
+            ]
+
+pos is >>part iii (superseded by sb 145leg-34-0027 rev 05), service bulletin - xm weather system activation mos 10-may-2013 hrs/msc - afl sb 145leg-34-0027 rev navigation - xm weather system provisions installation and activation (superseded by sb optional not applicable 04 part iv 145leg-34-0027 rev 05), service bulletin xm weather system full
+
+score: -0.022013690322637558
+Found at index_trained: 1263
+
+score: 0.13105802237987518
+Found at index_init: 4120
+
+query is >>features: [
+              str = Field(description= features of the Aircraft or the plane)"
+            ]
+
+pos is >>2015 legacy 650 sn 14501198 | n1977h 2015 legacy 650 s/n14501198| n1977h aircraft highlights  engines enrolled on rolls royce corporate care  embraer executive care enhanced  fans 1/a cpdlc  nz 2000 fms 6.1 software (waas/lpv)  gogo avance l5 high speed us domestic wi-fi  ovation cabin
+
+score: 0.12117473781108856
+Found at index_trained: 54
+
+score: 0.19830721616744995
+Found at index_init: 889
+
+query is >>features: [
+              str = Field(description= features of the Aircraft or the plane)"
+            ]
+
+pos is >>dual honeywell rnz-851 navigation system (nav/adf/dme) dual stall protection systems dual honeywell transponders & airborne audio system navigation and compliance dual honeywell nz-2000 fms with 6.1 software ads-b out dual honeywell laserefiv irs fans 1/a cpdlc dual honeywell rm-855 radio management unit waas/lpv artex c406 emergency locator transmitter tcas 7.1
+
+score: 0.7962555885314941
+Found at index_trained: 1
+
+score: 0.1264285445213318
+Found at index_init: 2907
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>section a2.5.2, fuel system limitation items, of appendix 2 of embraer legacy bj–maintenance planning guide mpg-1483 (restatement of ad 2008-13-15) mos 26-feb-2014 09-feb-2011 hrs/msc - 0 afl 0 faa 2011-01-01 para (f)(2) perform incorporate new limitations for fuel tank systems revise als of the ica to incorporate mandatory complied with
+
+score: -0.08115936070680618
+Found at index_trained: 4220
+
+score: 0.04069741815328598
+Found at index_init: 5087
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>section a2.5.2, fuel system limitation items, of appendix 2 of embraer legacy bj–maintenance planning guide mpg-1483 (restatement of ad 2008-13-15) mos 26-feb-2014 09-feb-2011 hrs/msc - 0 afl 0 faa 2011-01-01 para (f)(2) perform incorporate new limitations for fuel tank systems revise als of the ica to incorporate mandatory complied with
+
+score: -0.08115936070680618
+Found at index_trained: 4220
+
+score: 0.04069741815328598
+Found at index_init: 5087
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>inside the ventral fuel tank on the embraer emb-145xr aircraft model is not protected in accordance with sfar-88 (special federal aviation regulation 88) requirements.: , not applicable - t: , o aircraft model: [extracted table] master ad/si report aircraft all bulletins with compliance or due emb-135bj - legacy 650 s/n
+
+score: -0.018333224579691887
+Found at index_trained: 3176
+
+score: 0.183582603931427
+Found at index_init: 1718
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>office: 8184420096 office: fax: fax: 8184747927 fax: embraer group 514-636-2020 (office) 800-787-9749 (efax-cards) please reach out to your analyst to analyst: record changes to address, last actuals email: embraermtlgroup@campsystems.com 514-636-7866 (fax) 631-980-4222 (efax-cards) (if any). www.campsystems.com filter criteria : spl. reqs:include;pn/sn-unknown components:include;task type:package, component, service aircraft manufacturer: embraer serial/regno: 14501198/n1977h
+
+score: 0.795543372631073
+Found at index_trained: 0
+
+score: 0.3164474070072174
+Found at index_init: 51
+
+query is >>make: str = Field(description= Manufacturer name of the aircraft or the plane)
+
+pos is >>section a2.5.2, fuel system limitation items, of appendix 2 of embraer legacy bj–maintenance planning guide mpg-1483 (restatement of ad 2008-13-15) mos 26-feb-2014 09-feb-2011 hrs/msc - 0 afl 0 faa 2011-01-01 para (f)(2) perform incorporate new limitations for fuel tank systems revise als of the ica to incorporate mandatory complied with
+
+score: -0.08115936070680618
+Found at index_trained: 4220
+
+score: 0.04069741815328598
+Found at index_init: 5087
+
